@@ -1,0 +1,17 @@
+Difference between document and window object?
+
+
+document object:-
+                           
+                 =>The document object represent a web page that is loaded in the brower.
+                 =>we ca asccess the element in the Html page.
+                 =>he document object can be asccess with a window.document or just document.
+
+
+window object:-
+
+                 =>It give asccessto the brower methods amd attributes as the global object in the brower environment.
+                 =>The brower produce on window object for the Htmlcontent and extra window object for each fram when
+                      document contain fram.
+                 =>It represent the common window or frames the javascript contain running in.                               
+  
